@@ -7,18 +7,15 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
-## Coming Soon
-
-* 📚 **[Hello, AI](https://github.com/ayushi-agarwall/hello-ai)** - Comprehensive open-source book on AI fundamentals, agent architecture, and practical implementations
-* 🏆 **[AgentRank](https://github.com/ayushi-agarwall/agentrank)** - Reputation management and trust scoring system for AI agents
-* 🌍 **[Global AI Calendar](https://github.com/ayushi-agarwall/global-ai-calendar)** - Never miss an AI event, conference, or deadline—worldwide
-
 ## Current Projects
 
-* 🤖 **[graphagent](https://github.com/ayushi-agarwall/graphagent)** - Hyper-minimal AI agent framework: 6kb, <100 lines, zero dependencies, graph-based orchestration
-* 📚 **[everything-ai](https://github.com/ayushi-agarwall/everything-ai)** - Your essential resource hub for AI and GenAI—courses, certifications, books, libraries, research papers
+* **[graphagent](https://github.com/ayushi-agarwall/graphagent)** - Hyper-minimal AI agent framework: 6kb, <100 lines, zero dependencies, graph-based orchestration
+* **[AgentRank](https://github.com/ayushi-agarwall/agentrank)** *(coming soon)* - Reputation management and trust scoring system for AI agents
+* **[Hello, AI](https://github.com/ayushi-agarwall/hello-ai)** *(coming soon)* - Comprehensive open-source book on AI fundamentals, agent architecture, and practical implementations
+* **[everything-ai](https://github.com/ayushi-agarwall/everything-ai)** - Your essential resource hub for AI and GenAI—courses, certifications, books, libraries, research papers
+* **[Global AI Calendar](https://github.com/ayushi-agarwall/global-ai-calendar)** *(coming soon)* - Never miss an AI event, conference, or deadline—worldwide
 
-## What I've Built
+## What I Built Earlier
 
 * **World's largest clinical knowledge graph** - 20M nodes, 220M relationships powering mental health AI
 * **Spatio-Temporal Graph Attention Networks** - Causal inference for mental health applications
@@ -28,6 +25,10 @@
 * **14+ Research Papers** - LLMs, graph neural networks, mental health AI, causality
 
 [📖 View Publications](https://scholar.google.com/citations?hl=en&user=wElmwlwAAAAJ)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ayushi-agarwall)
 
 ## Connect
 
