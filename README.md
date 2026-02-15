@@ -12,9 +12,7 @@
 * **[graphagent](https://github.com/ayushi-agarwall/graphagent)** - Hyper-minimal AI agent framework: 6kb, <100 lines, zero dependencies, graph-based orchestration
 * **[AgentRank](https://github.com/ayushi-agarwall/agentrank)** *(coming soon)* - Reputation management and trust scoring system for AI agents
 * **[Hello, AI](https://github.com/ayushi-agarwall/hello-ai)** *(coming soon)* - Comprehensive open-source book on AI fundamentals, agent architecture, and practical implementations
-* **[everything-ai](https://github.com/ayushi-agarwall/everything-ai)** - Your essential resource hub for AI and GenAI—courses, certifications, books, libraries, research papers
-* **[Global AI Calendar](https://github.com/ayushi-agarwall/global-ai-calendar)** *(coming soon)* - Never miss an AI event, conference, or deadline—worldwide
-
+* **[everything-ai](https://github.com/ayushi-agarwall/everything-ai)** - Your essential resource hub for AI and GenAI—courses, grants, credits, certifications, books, libraries, research papers
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/ayushi-agarwall)
